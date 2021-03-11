@@ -1,8 +1,8 @@
 # Bare_Conductive_POCs
 
-_Inbegrepen: Arduino code en mp3 files.
-De code is grotendeels afkomstig van de [Bare Conductive GitHub](https://github.com/BareConductive)
-[Bare Conductive website](https://www.bareconductive.com/)_
+_Inbegrepen: Arduino code en mp3 files._
+_De code is grotendeels afkomstig van de [Bare Conductive GitHub](https://github.com/BareConductive)_
+_[Bare Conductive website](https://www.bareconductive.com/)_
 
 Plaats deze repository direct in je Arduino map. 
 
